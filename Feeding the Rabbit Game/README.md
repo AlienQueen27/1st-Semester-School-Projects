@@ -17,16 +17,27 @@ Please enter direction of movements as a list:
 Example Output:
 
 Your board is:
-W X W C X
-A X X A W
-C X X X P
-X X X X X
-X * X X X
+
+|W X W C X|
+
+|A X X A W|
+
+|C X X X P|
+
+|X X X X X|
+
+|X * X X X|
 
 Your final board is:
-W X W C X
-* X X A W
-X X X X P
-X X X X X
-X X X X X
+
+|W X W C X|
+
+|* X X A W|
+
+|X X X X P|
+
+|X X X X X|
+
+|X X X X X|
+
 Your score is: 15
