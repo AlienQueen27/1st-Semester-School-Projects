@@ -17,10 +17,15 @@ Please enter direction of movements as a list:
 Example Output:
 
 Your board is:
+
 W X W C X
+
 A X X A W
+
 C X X X P
+
 X X X X X
+
 X * X X X
 
 Your final board is:
